@@ -3,6 +3,8 @@
 # Muhammad Faisal
 I'm Faisal from Indonesia,
 
+masih coba2, akal-akalan buatnya
+
 ### Hi there 👋, my name is Muhammad Faisal
 #### UI/UX Design and Fullstack Web Development
 <!-- ![UI/UX Design and Fullstack Web Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
