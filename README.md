@@ -3,7 +3,7 @@
 <!-- ![UI/UX Design and Fullstack Web Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I'am Faisal from Indonesia.
-I interested in ui/ux design and web development, I really like learning languages ​​and frameworks like laravel and react
+I interested in ui/ux design and web development, I really learning languages ​​and frameworks like laravel and react
 
 Skills: REACT / LARAVEL / JS / PHP / HTML / CSS
 
