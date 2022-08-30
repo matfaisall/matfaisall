@@ -1,5 +1,3 @@
-<img src="https://github.com/matfaisal/matfaisal/blob/main/banner-github.png"/>
-
 # Muhammad Faisal
 I'm Faisal from Indonesia,
 
