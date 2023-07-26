@@ -4,8 +4,8 @@
 <!-- #### UI/UX Design and Fullstack Web Development -->
 
 I'am Faisal from Indonesia.
-I interested in ui/ux design and web development, <br>
-I really learning languages ​​and frameworks like laravel and react
+I interested in ui/ux design and frontend web development, <br>
+I really learning languages ​​and frameworks like react
 
 <!-- Skills: REACT / LARAVEL / JS / PHP / HTML / CSS -->
 <!--
