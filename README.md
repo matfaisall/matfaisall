@@ -21,8 +21,9 @@ I really learning languages ​​and frameworks like react
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matfaisall&exclude_repo=github-readme-stats,matfaisall.github.io)
 
+<!--
 ![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=matfaisall&show_icons=true&theme=radical)
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matfaisall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matfaisall/" height="30" width="40" /></a>
