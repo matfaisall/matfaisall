@@ -21,6 +21,7 @@ I really learning languages ​​and frameworks like react
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matfaisall&exclude_repo=github-readme-stats,matfaisall.github.io)
 
+![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=matfaisall&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
