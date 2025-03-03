@@ -1,11 +1,11 @@
-# Junior Web Developer
+# Frontend Developer
 
 ### Hi there 👋, my name is Muhammad Faisal
 <!-- #### UI/UX Design and Fullstack Web Development -->
 
 I'am Faisal from Indonesia.
 I interested in ui/ux design and frontend web development, <br>
-I really learning languages ​​and frameworks like react
+I really learning languages ​​and frameworks like react and next.js
 
 <!-- Skills: REACT / LARAVEL / JS / PHP / HTML / CSS -->
 <!--
